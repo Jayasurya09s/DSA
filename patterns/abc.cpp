@@ -12,7 +12,7 @@ int main()
         for (int j = 0; j < n; j++)
         {
             cout << ch << " ";
-            ch++;
+            ch=ch+1;
         }
         cout << endl;
     }
